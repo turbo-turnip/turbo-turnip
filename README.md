@@ -8,11 +8,11 @@
 - ⚡ Fun fact: I like to play the clarinet & trumpet in spare time!
 
 ## Social links & Contact
-[<img src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" width="60px" height="60px" />][email]
-[<img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png" width="60px" height="60px" />][codepen]
-[<img src="https://i.pinimg.com/originals/48/e0/73/48e07378e01dd719c060c1f2f2b5cb00.png" width="60px" height="60px" />][github]
-[<img src="https://www.clipartmax.com/png/middle/307-3072089_discord-logo-computer-icons-reddit-discord-icon.png" width="60px" height="60px" />][discord]
-[<img src="https://i.pinimg.com/originals/1d/b9/9d/1db99daa9371bf0989f05a0bc12e2b9e.png" width="60px" height="60px" />][portfolio]
+[![Email](<img src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" width="60px" height="60px" />)][email]
+[![Codepen](<img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png" width="60px" height="60px" />)][codepen]
+[![Github[(<img src="https://i.pinimg.com/originals/48/e0/73/48e07378e01dd719c060c1f2f2b5cb00.png" width="60px" height="60px" />)][github]
+[![Discord](<img src="https://www.clipartmax.com/png/middle/307-3072089_discord-logo-computer-icons-reddit-discord-icon.png" width="60px" height="60px" />)][discord]
+[![Portfolio](<img src="https://i.pinimg.com/originals/1d/b9/9d/1db99daa9371bf0989f05a0bc12e2b9e.png" width="60px" height="60px" />)][portfolio]
 
 ## Languages & Tools
 ![JavaScript](<img src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" width="60px" height="60px" />)
@@ -26,5 +26,5 @@
 [email]: [mailto:atticus@softwarefuze.com]
 [codepen]: [https://codepen.io/TeaKe_smAL]
 [github]: [https://github.com/SoftwareFuze]
-[discord]: [data:text/html, <html style="margin: 0; padding: 0; box-sizing: border-box"><h1 style="font-family: arial; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%)">Discord Username: TeaKe_smAL#4826</h1></html>]
+[discord]: [data:text/html, \<html style="margin: 0; padding: 0; box-sizing: border-box"><h1 style="font-family: arial; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%)">Discord Username: TeaKe_smAL#4826</h1></html>]
 [portfolio]: [https://softwarefuze.com/]
