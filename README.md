@@ -1,20 +1,20 @@
-# 👋 Hi there, I'm TeaKe from SoftwareFuze!
+## 👋 Hi there, I'm TeaKe from SoftwareFuze!
 
-## I'm a fullstack programmer, C game developer, and a student!
+### I'm a fullstack programmer, C game developer, and a student!
 - 🔭 I’m currently working on ScrapBook, a social media platform which respects users' privacy.
 - 🌱 I’m currently learning about databases and the cloud.
 - 💬 Ask me about frontend development, or express/nodejs related things.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to play the clarinet & trumpet in spare time!
 
-## Social links & Contact
-- Email: [atticus@softwarefuze.com][email]
-- Codepen: [codepen.io/TeaKe_smAL][codepen]
-- Github: [@SoftwareFuze][github]
+### Social links & Contact
+- Email: [atticus@softwarefuze.com]([email])
+- Codepen: [codepen.io/TeaKe_smAL]([codepen])
+- Github: [@SoftwareFuze]([github])
 - Discord: TeaKe_smAL#4826
-- Portfolio: [softwarefuze.com][portfolio]
+- Portfolio: [softwarefuze.com]([portfolio])
 
-## Languages & Tools
+### Languages & Tools
 ![JavaScript](https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg)
 ![CSS](https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png)
 ![ReactJS Framework](https://react-metismenu-icons.vermiliontrr8.fun/img/376498.png)
