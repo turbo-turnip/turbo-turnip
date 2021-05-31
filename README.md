@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I like to play the clarinet & trumpet in spare time!
 
 ### Social links & Contact
-- Email: [atticus@softwarefuze.com]([email])
+- Email: [atticus@softwarefuze.com](email)
 - Codepen: [codepen.io/TeaKe_smAL]([codepen])
 - Github: [@SoftwareFuze]([github])
 - Discord: TeaKe_smAL#4826
