@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm TeaKe from SoftwareFuze!
+## 👋 Hi there, I'm Atticus from SoftwareFuze!
 
 ### I'm a fullstack programmer, C game developer, and a student!
 - 🔭 I’m currently working on LangMentor, a language learning app for learners.
