@@ -1,11 +1,11 @@
 ## 👋 Hi there, I'm TeaKe from SoftwareFuze!
 
 ### I'm a fullstack programmer, C game developer, and a student!
-- 🔭 I’m currently working on ScrapBook, a social media platform which respects users' privacy.
+- 🔭 I’m currently working on LangMentor, a language learning app for learners.
 - 🌱 I’m currently learning about databases and the cloud.
 - 💬 Ask me about frontend development, or express/nodejs related things.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to play the clarinet & trumpet in spare time!
+- ⚡ Fun fact: I like to play the clarinet || trumpet in spare time!
 
 ### Social links & Contact
 - Email: [atticus@softwarefuze.com](mailto:atticus@softwarefuze.com)
