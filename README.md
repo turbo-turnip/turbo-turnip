@@ -1,11 +1,11 @@
 ## 👋 Hi there, I'm Atticus from SoftwareFuze!
 
 ### I'm a fullstack programmer, C++ game developer, and a student!
-- 🔭 I’m currently working on LangMentor, a language learning app for learners.
-- 🌱 I’m currently learning about databases and the cloud.
-- 💬 Ask me about frontend development, or express/nodejs related things.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to play the clarinet || trumpet in spare time!
+- 🔭  I’m currently working on [CodeSpot](https://github.com/Softwarefuze/CodeSpot), a free website where you can learn to code!
+- 🌱  I’m currently learning about graphics programming with OpenGL and C++.
+- 💬  Ask me about frontend development, or express/nodejs related things.
+- 😄  Pronouns: He/Him
+- ⚡  Fun fact: I like to play the clarinet || trumpet in spare time!
 
 ### Social links & Contact
 - Email: [atticus@softwarefuze.com](mailto:atticus@softwarefuze.com)
