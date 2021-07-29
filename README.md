@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Atticus from SoftwareFuze!
 
 ### I'm a fullstack programmer, C++ game developer, and a student!
-- 🔭  I’m currently working on [CodeSpot](https://github.com/Softwarefuze/CodeSpot), a free website where you can learn to code!
+- 🔭  I’m currently working on [ShareFrame](https://github.com/Softwarefuze/ShareFrame), a website for developers to share and promote their software and recieve support!
 - 🌱  I’m currently learning about graphics programming with OpenGL and C++.
 - 💬  Ask me about frontend development, or express/nodejs related things.
 - 😄  Pronouns: He/Him
