@@ -12,7 +12,7 @@
 - Codepen: [codepen.io/TeaKe_smAL](https://codepen.io/TeaKe_smAL)
 - Github: [@SoftwareFuze](https://github.com/SoftwareFuze)
 - Discord: TeaKe_smAL#4826
-- Portfolio: [softwarefuze.com](https://softwarefuze.com/)
+- Portfolio: (In Development)
 
 ### Languages & Tools
 - TypeScript
