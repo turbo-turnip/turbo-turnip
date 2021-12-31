@@ -1,10 +1,10 @@
 ## 👋 Hi there, I'm Atticus from SoftwareFuze!
 
-### I'm a fullstack web developer, and a new game developer with C#!
+### I'm a fullstack web developer, and a new game developer with THREE.js!
 - 🔭  I’m currently working on [Retask](https://github.com/Softwarefuze/Retask), a website where anyone can manage projects and workflows efficiently!
-- 🌱  I’m currently learning about security && encryption!
+- 🌱  I’m currently learning about physics, 3d modeling, and THREE.js!
 - 💬  Ask me about web development topics like NodeJS, or ReactJS!
-- 😄  Pronouns: He/Him || They/Them
+- 😄  Pronouns: He/They
 - ⚡  Fun fact: I like to play the clarinet!
 
 ### Social links & Contact
@@ -27,3 +27,6 @@
 - Python
 - VSCode
 - Inkscape
+- Blender
+- THREE.js
+- CANNON.js
