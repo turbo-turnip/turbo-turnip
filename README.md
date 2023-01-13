@@ -9,9 +9,9 @@
 
 ### Social links & Contact
 - Email: [att.cubing.sharks@gmail.com](mailto:att.cubing.sharks@gmail.com)
-- Codepen: [codepen.io/TeaKe_smAL](https://codepen.io/TeaKe_smAL)
+- Codepen: [codepen.io/TeaK_smAL](https://codepen.io/TeaKe_smAL)
 - Github: [@SoftwareFuze](https://github.com/SoftwareFuze)
-- Discord: TeaKe_smAL#4826
+- Discord: adoikahs#0968
 - Portfolio: (In Development)
 
 ### Languages & Tools
